@@ -1,0 +1,4 @@
+{
+  "env": "prod",
+  "endpoint": "https://opendata.geneat.pro/api/v1"
+}
